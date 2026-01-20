@@ -1,0 +1,17 @@
+# Credentials and tokens - NEVER commit these to GitHub
+credentials.json
+token.pickle
+*.pyc
+__pycache__/
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+venv/
+env/
