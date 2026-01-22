@@ -15,3 +15,11 @@ __pycache__/
 .env
 venv/
 env/
+
+# Terraform state files
+terraform/.terraform/
+terraform/.terraform.lock.hcl
+terraform/terraform.tfstate*
+terraform/*.zip
+terraform/response.json
+lambda-deployment/
